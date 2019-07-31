@@ -47,7 +47,7 @@ int main()
 				menuchoi = 1;
 			}
 			else if (choi == 'Q' || choi == 'q') {
-				cout << "Exit Program...";
+				cout << "Exit Program...\n";
 				inchoi = 0;
 				menuchoi = 0;
 			}
